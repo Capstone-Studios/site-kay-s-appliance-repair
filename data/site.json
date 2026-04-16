@@ -1,99 +1,126 @@
 {
   "business": {
-    "name": "Keystone Roofing Co.",
-    "trade": "roofer",
-    "trade_label": "Roofing",
-    "city": "Gurnee",
-    "state": "IL",
-    "phone": "(555) 123-4567",
-    "phone_href": "tel:5551234567",
-    "google_rating": 4.9,
-    "review_count": 142,
-    "service_areas": ["Gurnee", "Lake Forest", "Libertyville", "Vernon Hills", "Wadsworth"],
-    "top_services": ["Roof Replacement", "Storm Damage Repair", "Gutter Systems", "Free Inspections"]
+    "name": "Kay's Appliance Repair",
+    "trade": "appliance repair",
+    "trade_label": "Appliance Repair",
+    "city": "",
+    "state": "",
+    "address": null,
+    "phone": "(847) 902-4971",
+    "phone_href": "tel:8479024971",
+    "email": null,
+    "website": null,
+    "google_maps_url": null,
+    "owner_name": null,
+    "google_rating": 5,
+    "review_count": 102,
+    "years_in_business": null,
+    "license_number": null,
+    "hours": null,
+    "service_areas": [],
+    "top_services": [
+      "Appliance Repair",
+      "Repairs",
+      "Installations",
+      "Maintenance"
+    ]
   },
   "brand": {
-    "theme": "light",
-    "archetype_tagline": "Roofing built to outlast the weather."
+    "theme": "dark",
+    "archetype_tagline": "Professional appliance repair you can count on"
   },
   "copy": {
-    "hero_headline": "Premium Roofing in Gurnee",
-    "hero_subheadline": "Family-owned, GAF-certified roofers protecting North Shore homes for over two decades. Precision craftsmanship, transparent pricing, and roofs that stand up to every Illinois winter.",
-    "hero_cta_primary": "Get a Free Estimate",
-    "trust_microcopy": "4.9★ · 142 Google reviews",
-    "owner_bio": "Your roof is the single most important investment protecting your home — and we treat it that way. At Keystone Roofing Co., every project is supervised by a master craftsman, finished by hand, and backed by a lifetime workmanship warranty. We don't cut corners, we don't sub out to day crews, and we don't leave until the job is right. For over twenty years, North Shore families have trusted us with their homes, and we plan to earn that trust for twenty more.",
-    "best_review": null
+    "hero_headline": "Professional Appliance Repair You Can Trust",
+    "hero_subheadline": "Kay's Appliance Repair provides quality appliance repair services with honest pricing and expert workmanship.",
+    "hero_cta_primary": "Get Free Estimate",
+    "trust_microcopy": "5★ · 102 reviews",
+    "owner_bio": "When you need a reliable appliance repair professional, look no further. Kay's Appliance Repair takes pride in delivering quality work and honest service. Whether it's a small repair or a major project, we're here to get the job done right the first time.",
+    "best_review": {
+      "author": "Scott Bartlett",
+      "rating": 5,
+      "text": "Kaylee came out this week to repair our clothes dryer. This is the 4th time she has repaired an appliance for us. She is outstanding!!! Fair, flexible, timely and quick!! HIGHLY RECOMMEND!!"
+    }
   },
   "design_tokens": {
     "colors": {
-      "bg_base": "#faf9f6",
-      "bg_surface": "#ffffff",
-      "brand_primary": "#181818",
-      "brand_accent": "#c41017"
+      "bg_base": "#0a0a0a",
+      "bg_surface": "#141414",
+      "brand_primary": "#1B2559",
+      "brand_accent": "#B45309"
     }
-  },
-  "photos": [],
-  "submissions": {
-    "site_slug": "keystone-roofing",
-    "endpoint": "",
-    "notify_email": null
   },
   "services": [
     {
-      "name": "Roof Replacement",
-      "description": "Complete tear-offs with premium GAF and Owens Corning architectural shingles. Every replacement includes new underlayment, ice & water shield, and a lifetime workmanship warranty."
+      "name": "Appliance Repair",
+      "description": "Expert appliance repair delivered with care and precision."
     },
     {
-      "name": "Storm Damage Repair",
-      "description": "24-hour emergency tarping and a full insurance claim walk-through. We document every hail strike, meet your adjuster on-site, and fight for the full replacement you deserve."
+      "name": "Repairs",
+      "description": "Fast, reliable appliance repair repairs when you need them."
     },
     {
-      "name": "Roof Repair",
-      "description": "Fast, precise repair for leaks, missing shingles, flashing failures, and worn valleys. Most repairs are completed same-day with a two-year labor warranty."
+      "name": "Installations",
+      "description": "Expert installation of new systems and equipment."
     },
     {
-      "name": "Gutter Systems",
-      "description": "Seamless aluminum gutters, oversized downspouts, and leaf-guard systems sized for Illinois rainfall. Protect the roof you just paid for."
+      "name": "Maintenance",
+      "description": "Keep things running smoothly with regular maintenance."
     },
     {
-      "name": "Free Inspections",
-      "description": "Thorough 27-point roof inspection with a full photo report — no sales pressure. Great for post-storm checkups, pre-listing, and insurance claims."
+      "name": "Consultations",
+      "description": "Free estimates and honest advice."
     },
     {
-      "name": "Flat & Low-Slope Roofs",
-      "description": "TPO, EPDM, and modified bitumen systems for garages, porches, and additions. Properly detailed at every penetration and seam."
+      "name": "Emergency Service",
+      "description": "When you need help fast, we're here."
     }
   ],
   "value_props": [
-    "Licensed, Bonded & Insured",
-    "Lifetime Workmanship Warranty",
-    "GAF Master Elite Certified",
-    "Family Owned Since 2003"
+    "Licensed & Insured",
+    "Free Estimates",
+    "Quality Work",
+    "Satisfaction Guaranteed"
   ],
   "reviews": [
     {
-      "author": "Sarah M.",
+      "author": "Scott Bartlett",
       "rating": 5,
-      "text": "After a hailstorm totaled our roof, Keystone handled everything — met the insurance adjuster, documented every panel, and replaced the whole thing in two days. The crew was respectful, the site was spotless, and the new roof looks incredible. Couldn't recommend them more."
+      "text": "Kaylee came out this week to repair our clothes dryer. This is the 4th time she has repaired an appliance for us. She is outstanding!!! Fair, flexible, timely and quick!! HIGHLY RECOMMEND!!"
     },
     {
-      "author": "Mike T.",
+      "author": "Jessie Tonyan",
       "rating": 5,
-      "text": "Called them on a Sunday during a rainstorm with water coming through the ceiling. They had a tarp up within two hours and the repair done by Tuesday. Honest pricing, no upsell, and they stood behind their work."
+      "text": "Kay’s was recommended to me by a friend. I’m glad I called her. She was able to fit me in promptly for an assessment of my washing machine and my dishwasher. She told me exactly what was wrong. She was also able to give me a quote to fix …"
     },
     {
-      "author": "Jennifer L.",
+      "author": "Audra Zimmermann",
       "rating": 5,
-      "text": "We interviewed five roofing companies before choosing Keystone and it was the best decision we made. The owner walked us through every material option, gave us a detailed written quote, and the crew finished a full tear-off and replacement on schedule."
+      "text": "Kay fixed my washer quickly and at a very reasonable price! She was flexible with scheduling and responsive the whole way through. I will be recommending Kay’s services to family and friends for any future appliance issues!"
     },
     {
-      "author": "David R.",
+      "author": "David Johnson",
       "rating": 5,
-      "text": "Best roofing company in Lake County. Fair prices, quality materials, and they stand behind every nail. Our new roof has already survived two nasty winters without a single issue."
+      "text": "Kay does excellent work, communicates when she’s on her way, and thoroughly answers all of my questions.  Kay has fixed my dishwasher and now my dryer; I will continue to use her services for appliance repairs."
+    },
+    {
+      "author": "shaina lesniewicz",
+      "rating": 5,
+      "text": "Kay was super responsive and on time! She was in and out with our oven repair and brought the parts needed with her, so we didn’t have to wait another day for our oven to work again. Would highly recommend her!"
+    },
+    {
+      "author": "Sarah Misicka",
+      "rating": 5,
+      "text": "Kay has been to our house 3 or 4 times over the years and is always fantastic. Today she was out to fix our dryer that someone else said they didn’t service and the only option was to call GE. She said she was confident she would be able to …"
     }
   ],
+  "photos": [],
   "seo": {
-    "meta_title": "Keystone Roofing Co. — Premium Roofing in Gurnee, IL",
-    "meta_description": "GAF-certified family roofers serving Gurnee and the North Shore for over 20 years. Lifetime workmanship warranty, storm damage specialists, 4.9★ on Google. Call (555) 123-4567."
+    "meta_title": "Kay's Appliance Repair — Appliance Repair",
+    "meta_description": "Kay's Appliance Repair provides quality appliance repair services. 5★ · 102 reviews. Call (847) 902-4971 today."
+  },
+  "submissions": {
+    "site_slug": "site-kay-s-appliance-repair",
+    "endpoint": "https://admin.capstonestudios.co/api/site-submissions",
+    "notify_email": null
   }
 }
